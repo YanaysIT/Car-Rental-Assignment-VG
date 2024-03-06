@@ -1,0 +1,26 @@
+﻿body {font-size: .9rem!important }
+
+.btn {font-size: 0.7rem!important; }
+
+.form-control {
+    max-height: 28px !important;
+    font-size: .9rem !important;
+    opacity: 80% !important;
+}
+
+.dropdown {opacity: 80%!important;
+}
+
+input {border-radius: 0 !important;}
+
+table thead th {
+    color: lightgrey !important;
+    min-width: 3rem!important;
+}
+
+
+
+
+
+
+
